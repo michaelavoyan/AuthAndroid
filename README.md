@@ -1,0 +1,1 @@
+The Auth library is a local authentication library that you can add to your Android application. It invokes BiometricPrompt on devices running Android SDK 24 version and greater, and on older devices will show a compat dialog.
